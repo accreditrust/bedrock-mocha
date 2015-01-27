@@ -1,2 +1,2 @@
 # bedrock-mocha
-Bedrock Mocha Test Framework
+Bedrock Mocha-based Test Framework
