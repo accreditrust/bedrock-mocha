@@ -2,7 +2,7 @@
   "name": "bedrock-mocha",
   "version": "0.0.1",
   "description": "Bedrock Mocha-based Test Framework",
-  "main": "index.js",
+  "main": "./lib/test",
   "scripts": {
     "test": "node test.js"
   },
@@ -29,6 +29,5 @@
   },
   "directories": {
     "lib": "./lib"
-  },
-  "main": "./lib/test"
+  }
 }
